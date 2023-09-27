@@ -1,0 +1,12 @@
+.styling{
+    display: block;
+    border-radius: 6px;
+    border-color: black;
+    background-color: black;
+    color:#ffffff;
+    height:150px;
+    padding: 10 10px;
+}
+.item{
+    padding: 10 10px;
+}
